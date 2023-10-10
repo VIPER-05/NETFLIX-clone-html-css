@@ -1,6 +1,5 @@
 # NETFLIX-clone-html-css-
-Certainly, if you want to create a very basic non-responsive prototype of a Netflix clone with no login functionality, here's a simplified description:
-
+ 
 Project Name: Basic Non-Responsive Netflix Clone Prototype
 
 Description:
